@@ -1,0 +1,11 @@
+{
+    "cmake.cmakePath": "C:\\msys64\\mingw64\\bin\\cmake.exe",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",
+    "cmake.debugConfig": {
+        "externalConsole": true
+    },
+    "files.associations": {
+        "eigen": "cpp",
+        "dense": "cpp"
+    }
+}
